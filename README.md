@@ -46,18 +46,6 @@ An AI-powered resume builder and ATS resume analyzer designed to help people cre
 
 ---
 
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanRawt&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=B99AFF&text_color=E7E2F5&icon_color=B7FF4A" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRawt&layout=compact&hide_border=true&bg_color=0D0B14&title_color=B99AFF&text_color=E7E2F5" />
-
-</div>
-
----
-
 ## ◈ Let's Connect
 
 <div align="center">
