@@ -4,7 +4,7 @@
 
 <br/>
 
-# ✦ AMAN RAWAT
+#  AMAN RAWAT
 
 ### Building ideas into digital experiences.
 
