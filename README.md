@@ -56,6 +56,6 @@ An AI-powered resume builder and ATS resume analyzer designed to help people cre
 
 **FAROP STUDIO**
 
-<sub>Crafting ideas. Building possibilities.</sub>
+<sub>Building Apps</sub>
 
 </div>
